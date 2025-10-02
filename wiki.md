@@ -1,28 +1,26 @@
-# Topic Title
-![](url for an image about your topic)
+# UW GEOG 328 Wiki
+## Autumn 2025
+### Noah Curtis
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+> This is the wiki page for my **GEOG 328** github repository, all coursework and submissions will be located in this repository
 
+This repository will host all labs for GEOG 328, a variety of web GIS methods will be explored and implemented through these labs. Through this course I hope to achieve proficiency in the implementation and deployment of various GIS technologies.
 
-## Section 1
-One or several paragraphs.
+![Where I might be going next quarter](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/536000/536216-roman-forum.jpg)
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
+## About Me
+I am a senior finishing up my degree in Geography: Data Science. Throughout this next year I am aiming to become industry viable by working on personal projects and technical interview preparations! Some of my interests that I want to explore this year include:
 
-## Section 3
-One or several paragraphs for subsection 3.
+1. Implementing cool geospatial maps into web applications
+2. AI workflows and automation tasks
+3. Self hosting servers and "de googling" my personal digital presence
+
 
 ## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+- A [music search](cosine.club) site I am trying to recreate
+- How I'm [preparing](neetcode.io) for technical interviews
+- A cool [no code tool](n8n.io) I have used to automate LLM workflows
 
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+## Contact
+- ncurtis4@uw.edu
+- [linkedin](https://www.linkedin.com/in/noah-curtis-18b92523a/)
